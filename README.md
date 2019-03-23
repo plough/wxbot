@@ -15,7 +15,7 @@
 #### 1.2 聊天机器人
 除了跟它聊天斗嘴，还可以查天气，讲笑话。
 
-![](images/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%8F%90bug%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%9F%E8%83%BD%E5%9B%BE.png)
+![](https://raw.githubusercontent.com/plough/wxbot/master/images/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%8F%90bug%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%9F%E8%83%BD%E5%9B%BE.png)
 
 ## 2. 相关技术点提要
 语言是 Python3，服务器框架为 Flask。
@@ -63,7 +63,7 @@ scp $fname root@xx.xxx.xx.xx:~/ # 替换为真实的 ip 地址
 服务器上的解压命令为 `tar -xvzf wxbot.tar.gz`。
 
 ## 4. 项目目录结构
-![](images/%E5%BE%AE%E4%BF%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+![](https://raw.githubusercontent.com/plough/wxbot/master/images/%E5%BE%AE%E4%BF%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 ## 5. 基本运维思路
 #### 5.1 文案修改、名字映射修改、第三方接口配置修改
